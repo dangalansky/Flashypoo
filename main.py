@@ -61,10 +61,10 @@ wrong_open = Image.open('./images/wrong.png')
 wrong_resize = wrong_open.resize((200, 278), Image.ANTIALIAS)
 wrong = ImageTk.PhotoImage(wrong_resize)
 cardf_open = Image.open('./images/card_front.png')
-cardf_resize = cardf_open.resize((500, 328), Image.ANTIALIAS)
+cardf_resize = cardf_open.resize((600, 328), Image.ANTIALIAS)
 card_front = ImageTk.PhotoImage(cardf_resize)
 cardb_open = Image.open('./images/card_back.png')
-cardb_resize = cardb_open.resize((500, 328), Image.ANTIALIAS)
+cardb_resize = cardb_open.resize((600, 328), Image.ANTIALIAS)
 card_back = ImageTk.PhotoImage(cardb_resize)
 no = PhotoImage(file='./images/no.png')
 yup = PhotoImage(file='./images/yup.png')
@@ -82,8 +82,8 @@ yup_label = Label(image=yup, bg=BACKGROUND_COLOR)
 yup_label.place(x=795, y=500)
 
 # ------------- WORDS ----------------- #
-title_text = canvas.create_text(495, 260, text='', font=('Arial', 40, 'italic'))
-word_text = canvas.create_text(495, 330, text='', font=('Arial', 30, 'bold'))
+title_text = canvas.create_text(495, 270, text='', font=('Helvetica', 20, 'italic'))
+word_text = canvas.create_text(495, 330, text='', font=('Helvetica', 30, 'bold'))
 
 # ------------ BUTTONS --------------- #
 wrong_button = Button(image=wrong, highlightthickness=0, borderwidth=0, bd=0, command=next_card)
