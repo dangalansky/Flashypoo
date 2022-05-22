@@ -12,7 +12,7 @@ to_learn = {}
 try:
    data = pandas.read_csv('data/capitals_to_learn.csv')
 except FileNotFoundError:
-   original_data = pandas.read_csv('data/countries_capitals.csv')
+   original_data = pandas.read_csv('data/us_capitals.csv')
    to_learn = original_data.to_dict(orient='records')
 else:
    to_learn = data.to_dict(orient='records')
@@ -30,8 +30,8 @@ def next_card():
    window.after_cancel(flip_timer)
    current_card = random.choice(to_learn)
    canvas.itemconfig(card_img, image=card_front)
-   canvas.itemconfig(title_text, text='country', fill='black')
-   canvas.itemconfig(word_text, text=current_card['country'], fill='black')
+   canvas.itemconfig(title_text, text='state', fill='black')
+   canvas.itemconfig(word_text, text=current_card['state'], fill='black')
    flip_timer = window.after(5000, flip_card)
 
 
@@ -67,11 +67,16 @@ cardb_open = Image.open('./images/card_back.png')
 cardb_resize = cardb_open.resize((600, 328), Image.ANTIALIAS)
 card_back = ImageTk.PhotoImage(cardb_resize)
 no = PhotoImage(file='./images/no.png')
-yup = PhotoImage(file='./images/yup.png')
+no_open = Image.open('./images/no.png')
+no_resize = no_open.resize((134, 105), Image.ANTIALIAS)
+no = ImageTk.PhotoImage(no_resize)
+yup_open = Image.open('./images/yup.png')
+yup_resize = yup_open.resize((134, 124), Image.ANTIALIAS)
+yup = ImageTk.PhotoImage(yup_resize)
 
 
 # -------------- BACKGROUND ----------- #
-canvas = Canvas(height=700, width=1000, bg=BACKGROUND_COLOR, highlightthickness=0)
+canvas = Canvas(height=600, width=1000, bg=BACKGROUND_COLOR, highlightthickness=0)
 card_img = canvas.create_image(500, 330, image=card_front)
 canvas.grid(row=1, column=1)
 title_label = Label(image=title, bg=BACKGROUND_COLOR)

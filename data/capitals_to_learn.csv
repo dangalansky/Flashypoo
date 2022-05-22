@@ -1,243 +1,51 @@
-country,capital,type
-Abkhazia,Sukhumi,countryCapital
-Afghanistan,Kabul,countryCapital
-Akrotiri and Dhekelia,Episkopi Cantonment,countryCapital
-Albania,Tirana,countryCapital
-Algeria,Algiers,countryCapital
-American Samoa,Pago Pago,countryCapital
-Andorra,Andorra la Vella,countryCapital
-Angola,Luanda,countryCapital
-Anguilla,The Valley,countryCapital
-Antigua and Barbuda,St. John's,countryCapital
-Argentina,Buenos Aires,countryCapital
-Armenia,Yerevan,countryCapital
-Aruba,Oranjestad,countryCapital
-Ascension Island,Georgetown,countryCapital
-Australia,Canberra,countryCapital
-Austria,Vienna,countryCapital
-Azerbaijan,Baku,countryCapital
-Bahamas,Nassau,countryCapital
-Bahrain,Manama,countryCapital
-Bangladesh,Dhaka,countryCapital
-Barbados,Bridgetown,countryCapital
-Belarus,Minsk,countryCapital
-Belgium,Brussels,countryCapital
-Belize,Belmopan,countryCapital
-Benin,Porto-Novo,countryCapital
-Bermuda,Hamilton,countryCapital
-Bhutan,Thimphu,countryCapital
-Bolivia,Sucre,countryCapital
-Bolivia,La Paz,countryCapital
-Bosnia and Herzegovina,Sarajevo,countryCapital
-Botswana,Gaborone,countryCapital
-Brazil,Brasília,countryCapital
-British Virgin Islands,Road Town,countryCapital
-Brunei,Bandar Seri Begawan,countryCapital
-Bulgaria,Sofia,countryCapital
-Burkina Faso,Ouagadougou,countryCapital
-Burundi,Bujumbura,countryCapital
-Cambodia,Phnom Penh,countryCapital
-Cameroon,Yaoundé,countryCapital
-Canada,Ottawa,countryCapital
-Cape Verde,Praia,countryCapital
-Cayman Islands,George Town,countryCapital
-Central African Republic,Bangui,countryCapital
-Chad,N'Djamena,countryCapital
-Chile,Santiago,countryCapital
-China,Beijing,countryCapital
-Christmas Island,Flying Fish Cove,countryCapital
-Cocos (Keeling) Islands,West Island,countryCapital
-Colombia,Bogotá,countryCapital
-Comoros,Moroni,countryCapital
-Cook Islands,Avarua,countryCapital
-Costa Rica,San José,countryCapital
-Croatia,Zagreb,countryCapital
-Cuba,Havana,countryCapital
-Curaçao,Willemstad,countryCapital
-Cyprus,Nicosia,countryCapital
-Czech Republic,Prague,countryCapital
-Côte d'Ivoire,Yamoussoukro,countryCapital
-Democratic Republic of the Congo,Kinshasa,countryCapital
-Denmark,Copenhagen,countryCapital
-Djibouti,Djibouti,countryCapital
-Dominica,Roseau,countryCapital
-Dominican Republic,Santo Domingo,countryCapital
-East Timor (Timor-Leste),Dili,countryCapital
-Easter Island,Hanga Roa,countryCapital
-Ecuador,Quito,countryCapital
-Egypt,Cairo,countryCapital
-El Salvador,San Salvador,countryCapital
-Equatorial Guinea,Malabo,countryCapital
-Eritrea,Asmara,countryCapital
-Estonia,Tallinn,countryCapital
-Ethiopia,Addis Ababa,countryCapital
-Falkland Islands,Stanley,countryCapital
-Faroe Islands,Tórshavn,countryCapital
-Federated States of Micronesia,Palikir,countryCapital
-Fiji,Suva,countryCapital
-Finland,Helsinki,countryCapital
-France,Paris,countryCapital
-French Guiana,Cayenne,countryCapital
-French Polynesia,Papeete,countryCapital
-Gabon,Libreville,countryCapital
-Gambia,Banjul,countryCapital
-Georgia,Tbilisi,countryCapital
-Germany,Berlin,countryCapital
-Ghana,Accra,countryCapital
-Gibraltar,Gibraltar,countryCapital
-Greece,Athens,countryCapital
-Greenland,Nuuk,countryCapital
-Grenada,St. George's,countryCapital
-Guam,Hagåtña,countryCapital
-Guernsey,St. Peter Port,countryCapital
-Guinea,Conakry,countryCapital
-Guinea-Bissau,Bissau,countryCapital
-Guyana,Georgetown,countryCapital
-Haiti,Port-au-Prince,countryCapital
-Honduras,Tegucigalpa,countryCapital
-Hungary,Budapest,countryCapital
-Iceland,Reykjavík,countryCapital
-India,New Delhi,countryCapital
-Indonesia,Jakarta,countryCapital
-Iran,Tehran,countryCapital
-Iraq,Baghdad,countryCapital
-Ireland,Dublin,countryCapital
-Isle of Man,Douglas,countryCapital
-Israel,Jerusalem,countryCapital
-Italy,Rome,countryCapital
-Japan,Tokyo,countryCapital
-Jersey,St. Helier,countryCapital
-Jordan,Amman,countryCapital
-Kazakhstan,Astana,countryCapital
-Kenya,Nairobi,countryCapital
-Kiribati,Tarawa,countryCapital
-Kosovo,Pristina,countryCapital
-Kuwait,Kuwait City,countryCapital
-Kyrgyzstan,Bishkek,countryCapital
-Laos,Vientiane,countryCapital
-Latvia,Riga,countryCapital
-Lebanon,Beirut,countryCapital
-Lesotho,Maseru,countryCapital
-Liberia,Monrovia,countryCapital
-Libya,Tripoli,countryCapital
-Liechtenstein,Vaduz,countryCapital
-Lithuania,Vilnius,countryCapital
-Luxembourg,Luxembourg,countryCapital
-Macedonia,Skopje,countryCapital
-Madagascar,Antananarivo,countryCapital
-Malawi,Lilongwe,countryCapital
-Malaysia,Kuala Lumpur,countryCapital
-Maldives,Malé,countryCapital
-Mali,Bamako,countryCapital
-Malta,Valletta,countryCapital
-Marshall Islands,Majuro,countryCapital
-Mauritania,Nouakchott,countryCapital
-Mauritius,Port Louis,countryCapital
-Mexico,Mexico City,countryCapital
-Moldova,Chisinau,countryCapital
-Monaco,Monaco,countryCapital
-Mongolia,Ulaanbaatar,countryCapital
-Montenegro,Podgorica,countryCapital
-Montserrat,Plymouth,countryCapital
-Morocco,Rabat,countryCapital
-Mozambique,Maputo,countryCapital
-Myanmar,Naypyidaw,countryCapital
-Nagorno-Karabakh Republic,Stepanakert,countryCapital
-Namibia,Windhoek,countryCapital
-Nauru,Yaren,countryCapital
-Nepal,Kathmandu,countryCapital
-Netherlands,Amsterdam,countryCapital
-New Caledonia,Nouméa,countryCapital
-New Zealand,Wellington,countryCapital
-Nicaragua,Managua,countryCapital
-Nigeria,Abuja,countryCapital
-Niue,Alofi,countryCapital
-Norfolk Island,Kingston,countryCapital
-North Korea,Pyongyang,countryCapital
-Northern Cyprus,Nicosia,countryCapital
-United Kingdom Northern Ireland,Belfast,countryCapital
-Northern Mariana Islands,Saipan,countryCapital
-Norway,Oslo,countryCapital
-Oman,Muscat,countryCapital
-Pakistan,Islamabad,countryCapital
-Palau,Ngerulmud,countryCapital
-Palestine,Jerusalem,countryCapital
-Panama,Panama City,countryCapital
-Paraguay,Asunción,countryCapital
-Peru,Lima,countryCapital
-Philippines,Manila,countryCapital
-Pitcairn Islands,Adamstown,countryCapital
-Poland,Warsaw,countryCapital
-Portugal,Lisbon,countryCapital
-Puerto Rico,San Juan,countryCapital
-Qatar,Doha,countryCapital
-Republic of China (Taiwan),Taipei,countryCapital
-Republic of the Congo,Brazzaville,countryCapital
-Romania,Bucharest,countryCapital
-Russia,Moscow,countryCapital
-Rwanda,Kigali,countryCapital
-Saint Barthélemy,Gustavia,countryCapital
-Saint Helena,Jamestown,countryCapital
-Saint Kitts and Nevis,Basseterre,countryCapital
-Saint Martin,Marigot,countryCapital
-Saint Pierre and Miquelon,St. Pierre,countryCapital
-Saint Vincent and the Grenadines,Kingstown,countryCapital
-Samoa,Apia,countryCapital
-San Marino,San Marino,countryCapital
-Saudi Arabia,Riyadh,countryCapital
-Scotland,Edinburgh,countryCapital
-Senegal,Dakar,countryCapital
-Serbia,Belgrade,countryCapital
-Seychelles,Victoria,countryCapital
-Sierra Leone,Freetown,countryCapital
-Singapore,Singapore,countryCapital
-Sint Maarten,Philipsburg,countryCapital
-Slovakia,Bratislava,countryCapital
-Slovenia,Ljubljana,countryCapital
-Solomon Islands,Honiara,countryCapital
-Somalia,Mogadishu,countryCapital
-Somaliland,Hargeisa,countryCapital
-South Africa,Pretoria,countryCapital
-South Georgia and the South Sandwich Islands,Grytviken,countryCapital
-South Korea,Seoul,countryCapital
-South Ossetia,Tskhinvali,countryCapital
-South Sudan,Juba,countryCapital
-Spain,Madrid,countryCapital
-Sri Lanka,Sri Jayawardenapura Kotte,countryCapital
-Sudan,Khartoum,countryCapital
-Suriname,Paramaribo,countryCapital
-Swaziland,Mbabane,countryCapital
-Sweden,Stockholm,countryCapital
-Switzerland,Bern,countryCapital
-Syria,Damascus,countryCapital
-São Tomé and Príncipe,São Tomé,countryCapital
-Tajikistan,Dushanbe,countryCapital
-Tanzania,Dodoma,countryCapital
-Thailand,Bangkok,countryCapital
-Togo,Lomé,countryCapital
-Tonga,Nukuʻalofa,countryCapital
-Transnistria,Tiraspol,countryCapital
-Trinidad and Tobago,Port of Spain,countryCapital
-Tristan da Cunha,Edinburgh of the Seven Seas,countryCapital
-Tunisia,Tunis,countryCapital
-Turkey,Ankara,countryCapital
-Turkmenistan,Ashgabat,countryCapital
-Turks and Caicos Islands,Cockburn Town,countryCapital
-Tuvalu,Funafuti,countryCapital
-Uganda,Kampala,countryCapital
-Ukraine,Kiev,countryCapital
-United Arab Emirates,Abu Dhabi,countryCapital
-United Kingdom; England,London,countryCapital
-United States,"Washington, D.C.",countryCapital
-United States Virgin Islands,Charlotte Amalie,countryCapital
-Uruguay,Montevideo,countryCapital
-Uzbekistan,Tashkent,countryCapital
-Vanuatu,Port Vila,countryCapital
-Vatican City,Vatican City,countryCapital
-Venezuela,Caracas,countryCapital
-Vietnam,Hanoi,countryCapital
-Wallis and Futuna,Mata-Utu,countryCapital
-Western Sahara,El Aaiún,countryCapital
-Yemen,Sanaá,countryCapital
-Zambia,Lusaka,countryCapital
-Zimbabwe,Harare,countryCapital
+state,capital,latitude,longitude
+Alabama,Montgomery,32.377716,-86.300568
+Alaska,Juneau,58.301598,-134.420212
+Arizona,Phoenix,33.448143,-112.096962
+Arkansas,Little Rock,34.746613,-92.288986
+California,Sacramento,38.576668,-121.493629
+Colorado,Denver,39.739227,-104.984856
+Connecticut,Hartford<br>,41.764046,-72.682198
+Delaware,Dover,39.157307,-75.519722
+Hawaii,Honolulu,21.307442,-157.857376
+Florida,Tallahassee,30.438118,-84.281296
+Georgia,Atlanta<br>,33.749027,-84.388229
+Idaho,Boise,43.617775,-116.199722
+Illinois,Springfield,39.798363,-89.654961
+Indiana,Indianapolis,39.768623,-86.162643
+Iowa,Des Moines,41.591087,-93.603729
+Kansas,Topeka,39.048191,-95.677956
+Kentucky,Frankfort,38.186722,-84.875374
+Louisiana,Baton Rouge,30.457069,-91.187393
+Maine,Augusta,44.307167,-69.781693
+Maryland,Annapolis,38.978764,-76.490936
+Massachusetts,Boston,42.358162,-71.063698
+Michigan,Lansing,42.733635,-84.555328
+Minnesota,St. Paul,44.955097,-93.102211
+Mississippi,Jackson,32.303848,-90.182106
+Missouri,Jefferson City,38.579201,-92.172935
+Montana,Helena,46.585709,-112.018417
+Nebraska,Lincoln,40.808075,-96.699654
+Nevada,Carson City,39.163914,-119.766121
+New Hampshire,Concord,43.206898,-71.537994
+New Jersey,Trenton,40.220596,-74.769913
+New Mexico,Santa Fe,35.68224,-105.939728
+North Carolina,Raleigh,35.78043,-78.639099
+North Dakota,Bismarck,46.82085,-100.783318
+New York,Albany,42.652843,-73.757874
+Ohio,Columbus,39.961346,-82.999069
+Oklahoma,Oklahoma City,35.492207,-97.503342
+Oregon,Salem,44.938461,-123.030403
+Pennsylvania,Harrisburg,40.264378,-76.883598
+Rhode Island,Providence,41.830914,-71.414963
+South Carolina,Columbia,34.000343,-81.033211
+South Dakota,Pierre,44.367031,-100.346405
+Tennessee,Nashville,36.16581,-86.784241
+Texas,Austin,30.27467,-97.740349
+Utah,Salt Lake City,40.777477,-111.888237
+Vermont,Montpelier,44.262436,-72.580536
+Virginia,Richmond,37.538857,-77.43364
+Washington,Olympia,47.035805,-122.905014
+West Virginia,Charleston,38.336246,-81.612328
+Wisconsin,Madison,43.074684,-89.384445
+Wyoming,Cheyenne,41.140259,-104.820236

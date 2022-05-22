@@ -10,7 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/countries_capitals.csv">
+        <entry key="/data/us_capitals.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
