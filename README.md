@@ -8,5 +8,5 @@ There are 2 .csv files titled: us_capitals.csv and capitals_to_learn.csv. The "t
 Place a .csv formatted file in the data folder that contains whatever information you wish to learn. Create a second copy and name it "to_learn" You will need to update the code with the new file name(s) located under the CSV FILE section of main.py
 
 # Art
-All shitty art for this GUI was created from scratch by yours truly, the original Daniel Esquire Galanskafax for his own emjoyment. Please alter and destroy at your leisure. 
+All shitty art for this GUI was created from scratch by yours truly, the original Daniel Esquire Galanskafax for his own enjoyment. Please alter and destroy at your leisure. 
 
